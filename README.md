@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-jdbc-serde-url">spark-jdbc-serde-url</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-jdbc-serde-url"><strong>https://abraxaslabs.tech/research/spark-jdbc-serde-url</strong></a>
+</p>
+
 
 # spark-jdbc-serde-url
 
